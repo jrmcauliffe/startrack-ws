@@ -1,0 +1,10 @@
+target/
+/project/target/
+*~
+*.swp
+*.swo
+.cache
+.classpath
+.project
+.history
+.settings/
